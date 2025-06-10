@@ -224,7 +224,7 @@ public class Main {
 
                 case 5:
                     JOptionPane.showMessageDialog(null, "Obrigado por utilizar nosso sistema!");
-                    break;
+                    System.exit(0);
 
                 default:
                     JOptionPane.showMessageDialog(null, "Opção inválida! Tente novamente.");
