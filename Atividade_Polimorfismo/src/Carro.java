@@ -1,4 +1,4 @@
-public class Carro {
+public abstract class Carro {
 
     private String marcar;
     private String modelo;
