@@ -29,8 +29,6 @@ public class Emprestimo {
         this.cliente.decrementarTotalEmprestimos();
     }
 
-    // getters & setters
-
     public Cliente getCliente() {
         return cliente;
     }
